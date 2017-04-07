@@ -1,0 +1,19 @@
+.footer {
+    height: 80px;
+    background: url("..//_images/315H.jpg") center center;
+    background-size: cover;
+    padding: 50px 30px;
+}
+
+.content-wrap {
+    float: left;
+}
+
+.copyright {
+    margin-left: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    color: rgba (0,0,0,0.4);
+    text-transform: uppercase;
+}
